@@ -5,10 +5,13 @@ This is a simple MCP (Model Context Protocol) server built with Java and Spring 
 ## MCP Tools
 
 ### 1. `Get Product`
-Returns details about a product by name.
+Return details about a product by name.
 
 ### 2. `Get All Products`
-Returns details about a all products.
+Return details about a all products.
+
+### 2. `Search Knowledge`
+Return details customers, products, invoices from **RAG**
 
 ## MCP Server UI
 To test the tools interactively, you can use the MCP Web UI:
